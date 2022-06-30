@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 this here is my second learning experience with the readme file
 
 <!--
 **kimspence/kimspence** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
